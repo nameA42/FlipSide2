@@ -10,10 +10,16 @@ character and enemy.
 
 ## Objects
   -Main Char (self made) [blender]
+  
   -Cop (self made) [blender]
+  
   -Coin (found) [used obj to terrain tool on a coin scan - https://grabcad.com/library/us-quarter-coin-3d-scanned-1]
+  
   -Ground (made) [used built in terrain tool]
+  
   -bench (made) [blender]
+  
   -trees (made 4 variants) [used built in tree tool]
+  
   -buildings (found 8 variants) [Unity Asset Store - https://assetstore.unity.com/packages/3d/environments/urban/white-city-76766]
   
